@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 //8. Write a Java method to count all words in a string.
 //        Test Data:
@@ -6,6 +6,9 @@ import java.util.Scanner;
 //        Expected Output:
 //        Number of words in the string: 9
 // DONE
+
+import java.util.Scanner;
+
 public class prog8 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
@@ -17,6 +20,6 @@ public class prog8 {
                 count++;
             }
         }
-        System.out.println("Number of words in the string: "+count);
+        System.out.println("Number of words in the string: " + count);
     }
 }

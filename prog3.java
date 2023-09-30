@@ -1,10 +1,9 @@
-import java.util.Scanner;
-
 //3. Write a Java program to reverse a word.
 //        Sample Output:
 //        Input a word: dsaf
 //        Reverse word: fasd
 // DONE
+import java.util.Scanner;
 public class prog3 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);

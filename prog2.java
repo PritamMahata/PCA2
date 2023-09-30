@@ -1,5 +1,3 @@
-
-
 //2. Write a Java program to capitalize the first letter of each word in a sentence.
 //   Sample Output:
 //   Input a Sentence: the quick brown fox jumps over the lazy dog.
